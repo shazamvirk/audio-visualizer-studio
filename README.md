@@ -2,7 +2,6 @@
 
 An interactive, high-performance web studio that processes real-time audio streams via the native **Web Audio API** and renders dynamic 60 FPS graphics on **HTML5 Canvas**. Built using **React**, **Redux Toolkit**, and **Tailwind CSS**.
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![React](https://img.shields.io/badge/React-18.x-61dafb.svg)
 ![Redux](https://img.shields.io/badge/Redux_Toolkit-2.x-764abc.svg)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.x/4.x-38bdf8.svg)
@@ -123,7 +122,3 @@ src/
 ## 🤝 Contributing
 
 Contributions are welcome! Feel free to open an issue or submit a pull request for new visualization presets or audio filters.
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
